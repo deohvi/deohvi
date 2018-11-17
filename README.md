@@ -1,33 +1,4 @@
 # deohvi
-
 <div class="popup2-moremenu">
-<div class="floaty-boat"><img src="https://orig00.deviantart.net/3a1a/f/2018/291/f/b/500px_ohnebg2_by_deohvi-dcprzwv.png" width="100%" /></div>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-
+<div class="floaty-boat"><img src="https://orig00.deviantart.net/5db7/f/2018/292/f/8/500px_ohnebg2_by_deohvi-dcpsvs2.gif" width="100%" /></div>
 Illustrator
